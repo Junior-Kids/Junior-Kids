@@ -1,10 +1,10 @@
 Hello, World! 👋
 
 <h3 align="center">Cybersecurity Enthusiast | Software Researcher</h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity;Learning+Reverse+Engineering;Interested+in+OSINT;Building+Technical+Knowledge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity;Junior-Kids+Toolkit;Interested+in+OSINT;Building+Technical+Knowledge" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=00D9FF&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/Junior-Kids?style=flat-square&color=00D9FF&label=FOLLOWERS" />
 </p>---
 
 About Me
@@ -13,11 +13,11 @@ I'm a technology enthusiast with a strong interest in cybersecurity, software an
 
 I enjoy exploring technology, understanding how systems work, and continuously improving my technical knowledge through research and hands-on learning.
 
-- 🔐 Interested in Cybersecurity & Information Security.
-- 🔍 Exploring Open-Source Intelligence (OSINT).
-- ⚙️ Learning Reverse Engineering & Software Analysis.
-- 🐍 Interested in Python Development & Automation.
-- 🐧 Exploring Linux and Open-Source Technologies.
+- Interested in Cybersecurity & Information Security.
+- Exploring Open-Source Intelligence (OSINT).
+- Learning Reverse Engineering & Software Analysis.
+- Interested in Python Development & Automation.
+- Exploring Linux and Open-Source Technologies.
 
 Technical Interests
 
