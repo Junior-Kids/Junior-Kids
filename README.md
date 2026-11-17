@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=200&section=header&text=root@USERNAME&fontSize=50&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Learner%20%7C%20OSINT%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=200&section=header&text=root@Junior-Kids&fontSize=50&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Learner%20%7C%20OSINT%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Cyber+Security+Learner;%24+cat+skills.txt;OSINT+%7C+Python+%7C+Shell+%7C+Linux;%24+echo+%22Always+learning...%22" alt="Typing SVG" />
