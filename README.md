@@ -1,133 +1,61 @@
-<div align="center">
+"> Hello, World!" 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=200&section=header&text=root@Junior-Kids&fontSize=50&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Learner%20%7C%20OSINT%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<h3 align="center">Cybersecurity Enthusiast | Software Researcher | Developer</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+the+world+of+Cybersecurity;Reverse+Engineering+%26+Software+Analysis;Building+tools+with+Python;Learning.+Researching.+Developing." />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=00D9FF&label=FOLLOWERS" />
+</p>---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Cyber+Security+Learner;%24+cat+skills.txt;OSINT+%7C+Python+%7C+Shell+%7C+Linux;%24+echo+%22Always+learning...%22" alt="Typing SVG" />
-</a>
+"$ whoami"
 
-![Profile Views](https://komarev.com/ghpvc/?username=Junior-Kids&label=Profile%20Views&color=00ff9c&style=flat-square)
-![Status](https://img.shields.io/badge/status-learning-00ff9c?style=flat-square&logo=hackthebox&logoColor=black)
-![Focus](https://img.shields.io/badge/focus-OSINT-0d1117?style=flat-square&logo=target&logoColor=00ff9c)
+I'm a technology enthusiast interested in understanding how software works, exploring security concepts, and developing practical technical solutions.
 
-</div>
+My primary interests include cybersecurity research, reverse engineering, OSINT, and Python development.
 
----
+- 🔐 Cybersecurity & Security Research
+- 🔍 Open-Source Intelligence (OSINT)
+- ⚙️ Reverse Engineering & Software Analysis
+- 🐍 Python Development & Automation
+- 🐧 Linux & Open-Source Technologies
 
-## 👤 `$ whoami`
+"$ tech-stack"
 
-```bash
-┌──(root㉿Junior-Kids)-[~]
-└─# cat about.txt
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark" />
+</p>"$ github-statistics"
 
-[+] Nama      : Junior-Kids
-[+] Role      : Cyber Security Learner
-[+] Keahlian  : OSINT (Open Source Intelligence)
-[+] Fokus     : Reconnaissance, Information Gathering, Digital Footprint
-[+] Status    : Masih belajar & terus berkembang
-[+] Motto     : "Stay curious, stay ethical."
-```
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+</p><p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>"$ contribution-activity"
 
-> Saya masih dalam tahap belajar di dunia Cyber Security. Setiap hari adalah kesempatan untuk memahami hal baru, dan saya selalu terbuka untuk belajar, berdiskusi, serta berkolaborasi.
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>"$ featured-projects"
 
----
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>"$ current-focus"
 
-## 🕵️ `$ cat skills/osint.txt`
-
-<div align="center">
-
-![OSINT](https://img.shields.io/badge/OSINT-Specialist--in--Training-00ff9c?style=for-the-badge&logoColor=black)
-
-</div>
-
-```text
-[✓] Information Gathering & Reconnaissance
-[✓] Username / Email / Phone Lookup
-[✓] Domain & Subdomain Enumeration
-[✓] Social Media Investigation
-[✓] Metadata & Image Analysis
-[✓] Google Dorking
-[✓] Digital Footprint Analysis
-```
-
----
-
-## 🛠️ `$ ls ~/tech-stack`
-
-<div align="center">
-
-![Shell](https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff9c)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)
-![Cython](https://img.shields.io/badge/Cython-0d1117?style=for-the-badge&logo=cython&logoColor=00ff9c)
-
-</div>
-
-| Teknologi | Kegunaan |
-|-----------|----------|
-| 🐚 **Shell** | Otomasi tugas & scripting tools |
-| 🐍 **Python** | Membuat tools OSINT & automasi |
-| 🐧 **Linux** | Sistem operasi utama untuk belajar & praktik |
-| 🌐 **HTML** | Membuat tampilan & halaman web sederhana |
-| ⚙️ **Cython** | Obfuscation & compiling tools agar lebih aman |
-| 🐙 **GitHub** | Version control & berbagi project |
+- Improving cybersecurity research skills.
+- Exploring software internals and reverse engineering.
+- Developing Python-based utilities.
+- Learning through practical experimentation.
 
 ---
 
-## 🚀 `$ cat featured-projects.txt`
-
-<div align="center">
-
-[![CAPTCHA Solver](https://img.shields.io/badge/CAPTCHA_Solver-Web_Recon_%26_Bypass-00ff9c?style=for-the-badge&logo=python&logoColor=black)](https://github.com/Junior-Kids?tab=repositories)
-[![Nexus OSINT](https://img.shields.io/badge/Nexus_OSINT-Recon_Framework-0d1117?style=for-the-badge&logo=maltego&logoColor=00ff9c)](https://github.com/Junior-Kids?tab=repositories)
-
-</div>
-
----
-
-## 📚 `$ cat learning-path.txt`
-
-```diff
-+ Linux Fundamentals
-+ Python Scripting
-+ OSINT Techniques
-+ Cython Obfuscation & Security
-! Networking Basics            (sedang dipelajari)
-! Web Security Basics          (sedang dipelajari)
-- Penetration Testing          (rencana berikutnya)
-- CTF & Bug Bounty             (rencana berikutnya)
-```
-
----
-
-## 📊 `$ git stats`
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Junior-Kids?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJunior-Kids&query=%24.public_repos&label=Repos&style=for-the-badge&logo=git&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
-![Joined](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJunior-Kids&query=%24.created_at&label=Joined&style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
-
-</div>
-
----
-
-## ⚠️ Disclaimer
-
-```text
-Semua tools & project di profil ini dibuat untuk TUJUAN EDUKASI.
-Gunakan secara bijak, legal, dan etis. Saya tidak bertanggung jawab
-atas penyalahgunaan apa pun yang dilakukan oleh pihak lain.
-```
-
-<div align="center">
-
-```bash
-$ echo "Learning never stops. Hack the knowledge, not the people."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>"Understand the system. Analyze the details. Build with purpose."</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:003B49&height=3&section=footer" />
+</p><p align="center">
+  <sub>Designed with curiosity · Built with consistency</sub>
+</p>
