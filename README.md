@@ -14,7 +14,7 @@
 
 ---
 
-## `$ whoami`
+## 👤 `$ whoami`
 
 ```bash
 ┌──(root㉿Junior-Kids)-[~]
@@ -32,7 +32,7 @@
 
 ---
 
-## `$ cat skills/osint.txt`
+## 🕵️ `$ cat skills/osint.txt`
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## `$ ls ~/tech-stack`
+## 🛠️ `$ ls ~/tech-stack`
 
 <div align="center">
 
@@ -67,16 +67,16 @@
 
 | Teknologi | Kegunaan |
 |-----------|----------|
-| **Shell** | Otomasi tugas & scripting tools |
-| **Python** | Membuat tools OSINT & automasi |
-| **Linux** | Sistem operasi utama untuk belajar & praktik |
-| **HTML** | Membuat tampilan & halaman web sederhana |
-| **Cython** | Obfuscation & compiling tools agar lebih aman |
-| **GitHub** | Version control & berbagi project |
+| 🐚 **Shell** | Otomasi tugas & scripting tools |
+| 🐍 **Python** | Membuat tools OSINT & automasi |
+| 🐧 **Linux** | Sistem operasi utama untuk belajar & praktik |
+| 🌐 **HTML** | Membuat tampilan & halaman web sederhana |
+| ⚙️ **Cython** | Obfuscation & compiling tools agar lebih aman |
+| 🐙 **GitHub** | Version control & berbagi project |
 
 ---
 
-## `$ cat featured-projects.txt`
+## 🚀 `$ cat featured-projects.txt`
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-## `$ cat learning-path.txt`
+## 📚 `$ cat learning-path.txt`
 
 ```diff
 + Linux Fundamentals
@@ -106,14 +106,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior-Kids&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Kids&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
+![Followers](https://img.shields.io/github/followers/Junior-Kids?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJunior-Kids&query=%24.public_repos&label=Repos&style=for-the-badge&logo=git&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
+![Joined](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJunior-Kids&query=%24.created_at&label=Joined&style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c)
 
 </div>
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 ```text
 Semua tools & project di profil ini dibuat untuk TUJUAN EDUKASI.
@@ -130,4 +131,3 @@ $ echo "Learning never stops. Hack the knowledge, not the people."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
-
