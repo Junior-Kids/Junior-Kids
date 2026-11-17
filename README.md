@@ -14,7 +14,7 @@
 
 ---
 
-## 👤 `$ whoami`
+## `$ whoami`
 
 ```bash
 ┌──(root㉿Junior-Kids)-[~]
@@ -32,7 +32,7 @@
 
 ---
 
-## 🕵️ `$ cat skills/osint.txt`
+## `$ cat skills/osint.txt`
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🛠️ `$ ls ~/tech-stack`
+## `$ ls ~/tech-stack`
 
 <div align="center">
 
@@ -67,16 +67,16 @@
 
 | Teknologi | Kegunaan |
 |-----------|----------|
-| 🐚 **Shell** | Otomasi tugas & scripting tools |
-| 🐍 **Python** | Membuat tools OSINT & automasi |
-| 🐧 **Linux** | Sistem operasi utama untuk belajar & praktik |
-| 🌐 **HTML** | Membuat tampilan & halaman web sederhana |
-| ⚙️ **Cython** | Obfuscation & compiling tools agar lebih aman |
-| 🐙 **GitHub** | Version control & berbagi project |
+| **Shell** | Otomasi tugas & scripting tools |
+| **Python** | Membuat tools OSINT & automasi |
+| **Linux** | Sistem operasi utama untuk belajar & praktik |
+| **HTML** | Membuat tampilan & halaman web sederhana |
+| **Cython** | Obfuscation & compiling tools agar lebih aman |
+| **GitHub** | Version control & berbagi project |
 
 ---
 
-## 🚀 `$ cat featured-projects.txt`
+## `$ cat featured-projects.txt`
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-## 📚 `$ cat learning-path.txt`
+## `$ cat learning-path.txt`
 
 ```diff
 + Linux Fundamentals
@@ -113,7 +113,7 @@
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 ```text
 Semua tools & project di profil ini dibuat untuk TUJUAN EDUKASI.
