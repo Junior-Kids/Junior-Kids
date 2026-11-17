@@ -26,16 +26,16 @@ Technical Interests
 </p>GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?Junior-Kids=Junior&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?Junior-Kids=Junior&layout=compact&theme=tokyonight&hide_border=true" />
 </p>Contribution Streak
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Junior&theme=tokyonight&hide_border=true" />
 </p>Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?Junior-Kids=Junior&theme=tokyo-night&hide_border=true" />
 </p>Current Focus
 
 - Strengthening cybersecurity fundamentals.
