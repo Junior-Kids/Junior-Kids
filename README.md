@@ -22,7 +22,7 @@ I enjoy exploring technology, understanding how systems work, and continuously i
 Technical Interests
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,theme=dark" />
 </p>GitHub Statistics
 
 <p align="center">
