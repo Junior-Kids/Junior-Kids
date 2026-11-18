@@ -13,21 +13,21 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 I'm a technology enthusiast with a strong interest in cybersecurity, software analysis, and development.
 
 I enjoy exploring technology, understanding how systems work, and continuously improving my technical knowledge through research and hands-on learning.
 
-- 🔐 Interested in Cybersecurity & Information Security
-- 🕵️ Exploring Open-Source Intelligence (OSINT)
-- 🧩 Learning Reverse Engineering & Software Analysis
-- 🐍 Interested in Python Development & Automation
-- 🐧 Exploring Linux and Open-Source Technologies
+- Interested in Cybersecurity & Information Security
+- Exploring Open-Source Intelligence (OSINT)
+- Learning Reverse Engineering & Software Analysis
+- Interested in Python Development & Automation
+- Exploring Linux and Open-Source Technologies
 
 ---
 
-## 🛠️ Technical Interests
+## Technical Interests
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" />
@@ -35,20 +35,20 @@ I enjoy exploring technology, understanding how systems work, and continuously i
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Junior-Kids&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Kids&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=Junior-Kids&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junior-Kids&theme=tokyo-night&hide_border=true" />
@@ -56,7 +56,7 @@ I enjoy exploring technology, understanding how systems work, and continuously i
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Strengthening cybersecurity fundamentals
 - Studying software architecture and internals
